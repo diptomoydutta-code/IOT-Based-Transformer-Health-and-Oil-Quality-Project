@@ -3,4 +3,4 @@ ESP32 transformer-oil monitor:   reads temperature, turbidity, voltage, and curr
 
 
 
-Contributors :- Anick kundu , Sagnik chattaraj , Diptomoy Dutta , Ayan dutta  and  Sauvik Ghosh 
+Contributors :- Anick kundu , Sagnik chattaraj , Diptomoy Dutta , Ayan dutta  and  Souvik Ghosh 
